@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi everyone, I'm learning web development. I'm currently working with HTML, CSS, and JavaScript. Feel free to connect! 
 
 <!--
 **Nurseabush2010/Nurseabush2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
