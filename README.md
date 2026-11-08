@@ -1,6 +1,11 @@
-Hi everyone, I'm learning web development. I'm currently working with HTML, CSS, and JavaScript. Feel free to connect! 
 
-<!--
+Hi everyone, I'm learning web development. I'm currently working with HTML, CSS, and JavaScript. Feel free to connect! 
+### skills
+HTML, CSS,AND JavaScript 
+### NCLEX
+
+<"Creating an NCLEX Question Bank: A project built as a new graduate nurse to organize study resources, tackle diverse practice questions, and prepare for licensure." 
+
 **Nurseabush2010/Nurseabush2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
